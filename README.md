@@ -2,3 +2,4 @@
 list of lists
 Four natural integers of x , y , z and n are given. while 0<=i<=x , 0<=j<=y , 0<=k<=z
 Print the list of lists all possible combinations of i , j , k, while i+j+k is not equal to n
+#cite : https://www.hackerrank.com/
